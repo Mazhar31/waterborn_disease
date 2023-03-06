@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'waterbronDisease'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD8DBA8DFBD546F3924040F9880E9197 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5940B3ABD7FD4D7882E4467619C8F83B }}
